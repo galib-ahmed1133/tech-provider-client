@@ -1,0 +1,11 @@
+
+.text-container h1{
+    font-weight: 700;
+    font-size: 55px;
+    color: #1A0061;
+}
+.more-button{
+    background-color: #3500D4;
+    border-radius: 30px;
+    padding: 10px 30px;
+}

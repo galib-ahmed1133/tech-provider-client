@@ -1,0 +1,25 @@
+.nav-list{
+    color: #0C0032 !important;
+    font-weight: 300;
+}
+.nav-list:hover{
+    border-bottom: 1px solid #3500D4 ;
+}
+.login-btn{
+    border-radius: 30px;
+    background-color: #3500D4;
+    padding: 5px 20px;
+    color: #ffffff;
+    margin-top: 2px;
+}
+.navbar-brand{
+    font-size: 25px;
+    font-weight: 700;
+    color: #1A0061 !important;
+}
+.link-style-name{
+    color: #0C0032 !important;
+    font-weight: 600;
+    text-decoration: none !important;
+    font-size: 25px;
+}

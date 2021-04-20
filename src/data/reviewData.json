@@ -1,0 +1,43 @@
+[
+    {
+        "name": "John Clark",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,.",
+        "designation": "Managing Director, JDK Ltd",
+        "img": "https://i.ibb.co/HNcQPBK/joseph-gonzalez-i-Fg-Rcq-Hznqg-unsplash.jpg"
+    },
+    {
+        "name": "Steven Thomas",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,.",
+        "designation": "CEO, Melico Pvt Ltd",
+        "img": "https://i.ibb.co/MB2Ncxj/austin-wade-X6-Uj51n5-CE8-unsplash.jpg"
+    },
+    {
+        "name": "Leoona David",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,.",
+        "designation": "Marketing Executive, Fox Org",
+        "img": "https://i.ibb.co/qd3n6p4/dan-ROJFu-WCsfm-A-unsplash.jpg"
+    },
+    {
+        "name": "Ema Johnson",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,.",
+        "designation": "CEO, TreeHouse",
+        "img": "https://i.ibb.co/WtPzxjL/stefan-stefancik-QXev-Dflbl8-A-unsplash.jpg"
+    },
+    {
+        "name": "David Curl",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,.",
+        "designation": "CEO, Sea Eagle Pvt Ltd",
+        "img": "https://i.ibb.co/MZgPcpt/jack-finnigan-rri-AI0nhcbc-unsplash.jpg"
+    },
+    {
+        "name": "Johnson Mitchel",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,.",
+        "designation": "CEO, Lions House",
+        "img": "https://i.ibb.co/d29TDr1/ben-parker-Oh-KEl-Ok-Q3-RE-unsplash.jpg"
+    }
+
+
+
+
+    
+]

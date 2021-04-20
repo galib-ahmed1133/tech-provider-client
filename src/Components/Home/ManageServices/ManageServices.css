@@ -1,0 +1,31 @@
+.manage-container h6{
+    color: #3500D4;
+    font-weight: 600;
+}
+.manage-container h2{
+    color: #282828;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 50px;
+}
+.manage-img{
+    position: relative;
+    margin: auto;
+    overflow: hidden;
+}
+.manage-img img{
+    transition: all 3s;
+    transform: scale(1);
+}
+.manage-img:hover img{
+    transform: scale(1.1);
+}
+.best-org{
+    font-weight: 600;
+    margin-top: 100px;
+    color: #282828;
+}
+.best-org-color{
+    color: #3500D4;
+
+}

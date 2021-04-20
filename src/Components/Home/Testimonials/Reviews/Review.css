@@ -1,0 +1,22 @@
+.review-card-style {
+  text-align: center;
+  height: 100%;
+  padding: 30px 0;
+  border: 0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+.review-card-style:hover{
+    background-image: linear-gradient(to top, #1a0061, #21007c, #280098, #2f00b6, #3500d4);
+    color: white;
+}
+.review-card-style img{
+    width: 30%;
+    height: 110px;
+    border-radius: 200%;
+}
+.review-card-body h4{
+    font-weight: 700;
+    color: #1a0061;
+    padding: 10px;
+}

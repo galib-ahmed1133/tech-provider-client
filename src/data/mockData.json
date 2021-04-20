@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Cloud Computing Services",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "price": 1445,
+        "img": "https://i.ibb.co/Y35mqNG/cloud-coding.png"
+    },
+    {
+        "title": "Cyber Security Service",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "price": 2025,
+        "img": "https://i.ibb.co/M5hcKdP/malware.png"
+    },
+    {
+        "title": "IT Management Service",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "price": 3030,
+        "img": "https://i.ibb.co/M2HNTsJ/settings.png"
+    },
+    {
+        "title": "Backup & Recovery Service",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "price": 1030,
+        "img": "https://i.ibb.co/Jys34mf/sync.png"
+    },
+    {
+        "title": "IT Consulting & Mentoring Service",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "price": 700,
+        "img": "https://i.ibb.co/cJgVw6C/consulting.png"
+    },
+    {
+        "title": "Software Development Service",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "price": 3550,
+        "img": "https://i.ibb.co/RbRp7Pr/gear.png"
+    }
+
+
+
+
+    
+]

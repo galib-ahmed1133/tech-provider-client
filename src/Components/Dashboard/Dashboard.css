@@ -1,0 +1,21 @@
+.dashboard-nav{
+    background-color: rgb(19, 2, 255);
+    margin-bottom: 2px;
+    padding: 10px;
+    border-radius: 30px;
+}
+.dashboard-nav-bg{
+    background-image: linear-gradient(to top, #1a0061, #21007c, #22007e, #220577, #1d0174);
+    display: block;
+    height: 100vh;
+    border-radius: 30px;
+
+}
+.nav-menu{
+    color: white;
+    list-style-type: none !important;
+    text-decoration: none !important;
+}
+.dashboard-panel{
+    margin-top: 0px;
+}

@@ -1,0 +1,20 @@
+.footer{
+    background-image: linear-gradient(to top, #1a0061, #21007c, #22007e, #220577, #1d0174);
+    padding: 20px;
+    margin-top: 100px;
+}.footer-logo h3{
+    font-weight: 700;
+    color: white;
+}
+.footer-items{
+    color: white;
+    opacity: 0.5;
+    list-style: none;
+    padding: 10px 0;
+}
+.footer-items-active{
+    color: white;
+    list-style: none;
+    padding: 20px 0;
+    font-weight: 600;
+}
